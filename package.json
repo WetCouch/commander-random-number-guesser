@@ -1,0 +1,15 @@
+{
+  "name": "commander-random-number-guesser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "guesser": "./index.js"
+  },
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-fs": "^1.2.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.9.0"
+  }
+}
